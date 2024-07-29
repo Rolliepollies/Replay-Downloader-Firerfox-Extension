@@ -1,0 +1,1 @@
+Just download both files in the same folder and then got to about:debugging#/runtime/this-firefox and add manifest.json as a temporary extension to run. Timing on the forfeit button has not been tested thourghly. 
